@@ -30,7 +30,7 @@ Les utilisateurs doivent être capables de :
 ### Liens
 
 - URL de la solution : [Ajoutez l'URL de votre solution Frontend Mentor ici](https://frontendmentor.io)
-- URL du site en direct : [Ajoutez l'URL de votre site en direct ici (ex: GitHub Pages/Vercel)](https://github.io)
+- URL du site en direct : [GitHub Pages](https://paul04sho.github.io/order-summary/)
 
 ### Technologies utilisées
 
