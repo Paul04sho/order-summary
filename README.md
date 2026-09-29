@@ -25,7 +25,7 @@ Les utilisateurs doivent être capables de :
 
 ### Capture d'écran
 
-![Capture d'écran de ma solution](./images/screenshot.png)
+![Capture d'écran de ma solution](/images/screenshot.png)
 
 ### Liens
 
