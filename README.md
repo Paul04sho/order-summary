@@ -49,5 +49,5 @@ Ce projet m'a permis de consolider mes bases en intégration responsive, notamme
 
 ## Auteur
 
-- Frontend Mentor - [@mon-pseudo](https://www.frontendmentor.io/profile/Paul04sho)
-- GitHub - [@mon-pseudo](https://github.com/Paul04sho)
+- Frontend Mentor - [Paul04sho](https://www.frontendmentor.io/profile/Paul04sho)
+- GitHub - [Paul04sho](https://github.com/Paul04sho)
