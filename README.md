@@ -29,6 +29,7 @@ Les utilisateurs doivent être capables de :
 
 ### Liens
 
+- URL de la solution Frontend Mentor: [Solution Frontend Mentor](http://frontendmentor.io/solutions/order-summary-card-tV3INZ8L6p)
 - URL du site en direct : [GitHub Pages](https://paul04sho.github.io/order-summary/)
 
 ### Technologies utilisées
